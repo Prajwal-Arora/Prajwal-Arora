@@ -1,4 +1,4 @@
-#### Hi, I'm Prajwal 👋
+### Hi, I'm Prajwal 👋
 As a Software Developer, I'm constantly immersed in the world of coding, problem-solving, and building innovative solutions. 
 While I may not have any formal teaching roles, I'm always eager to share my knowledge and insights with fellow developers.
 
