@@ -9,4 +9,5 @@ Beyond work, I have a passion for exploration. I'm drawn to remote corners of th
 I'm always open to connecting with like-minded individuals and exploring exciting opportunities. Feel free to reach out.
 If we’ve never met before, the best way to reach me is via email. I check my inbox frequently.
 
+---
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/_prajwal_arora?style=social)](https://twitter.com/_prajwal_arora) [![Follow me on Instagram](https://img.shields.io/badge/Follow-Instagram-grey?style=sociale&logo=instagram)](https://www.instagram.com/1ifeandbeyond/)
